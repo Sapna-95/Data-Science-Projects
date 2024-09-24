@@ -2,7 +2,7 @@
 # 📊 Data Analysis Projects
 
 ## 📝 Overview
-This repository contains a collection of data analysis projects focusing on various domains such as hotel bookings, airline data, camp data, and SQL analysis. Each project involves data cleaning, exploratory data analysis (EDA), and model building to derive insights and make predictions.
+This repository contains a collection of data analysis projects focusing on various domains such as hotel bookings, airline data, CAMP data, and SQL analysis. Each project involves data cleaning, exploratory data analysis (EDA), and model building to derive insights and make predictions.
 
 ## 📂 Projects
 
