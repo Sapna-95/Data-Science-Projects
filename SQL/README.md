@@ -46,4 +46,4 @@ Further research could involve:
 
 ---
 
-*This report can be uploaded to GitHub as part of a comprehensive analysis project on user engagement in the restaurant industry using Yelp data.*
+
