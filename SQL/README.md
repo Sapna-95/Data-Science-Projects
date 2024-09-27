@@ -1,4 +1,4 @@
-# Restaurant Success Analysis Using Yelp Dataset 🍽️📊
+# Restaurant Success Analysis Using YELP Dataset 🍽️📊
 
 This project leverages the **Yelp dataset** to analyze the relationship between **user engagement** (reviews, tips, and check-ins) and business success metrics such as **review count** and **average star rating** for restaurants. The raw data is first converted into a **JSON file** for easier manipulation, and then Python and SQL are used to perform the analysis.
 
