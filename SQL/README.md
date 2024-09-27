@@ -46,4 +46,16 @@ Further research could involve:
 
 ---
 
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to submit pull requests or open issues for any suggestions or improvements.
+
+## 📝 License
+
+This project is licensed under the MIT License.
+
+---
+
+Made with 💡 and Python.
+
 
